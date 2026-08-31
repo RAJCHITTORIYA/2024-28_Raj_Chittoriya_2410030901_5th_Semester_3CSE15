@@ -1,9 +1,6 @@
 # 2024-28_Raj_Chittoriya_2410030901_5th_Semester_3CSE15
 
 
-
-# Cisco–AICTE Virtual Internship 2026: Cyber Security Project
-
 # Secure Hybrid Datacenter Network Architecture & Multi-Tier Cloud Segmentation
 ### *Zero Trust Architecture, AWS Multi-VPC Isolation, IAM Least Privilege, Kubernetes Micro-segmentation & Threat Mitigation*
 
